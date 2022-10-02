@@ -7,11 +7,11 @@
 .NET 6
 EntityFrameworkCore 6
 
-## Frontend
+### Frontend
 
 React 18.2.0
 
-## Base de datos
+### Base de datos
 
 SQL SERVER
 
